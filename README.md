@@ -4,7 +4,7 @@ Self-built BARRA CNE5
 Data source: Tushare, JoinQuant and Wind Database
 
 Current progress:
-  - Finished fetching, saving, loading and computing (partliy) for now
+  - Finished fetching, saving, loading and computing (partial) for now
  
 TODO: 
   - Growth and Earning Yields
